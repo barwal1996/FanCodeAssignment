@@ -20,7 +20,7 @@ This project automates the verification of user tasks using Rest Assured and Tes
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/elaaisolution/SDETAssignment.git
+   https://github.com/barwal1996/FanCodeAssignment.git
    cd SDETAssignment
 
 2. Install the dependencies:
